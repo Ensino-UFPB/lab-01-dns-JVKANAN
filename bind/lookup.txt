@@ -1,0 +1,6 @@
+;; Got SERVFAIL reply from 192.168.1.50
+Server:		192.168.1.50
+Address:	192.168.1.50#53
+
+** server can't find www.joaovitor_silva.com: SERVFAIL
+

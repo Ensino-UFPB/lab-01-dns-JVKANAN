@@ -1,0 +1,4 @@
+zone "joaovitor_silva.com" {
+    type master;
+    file "/etc/bind/db.joaovitor_silva.com";
+};
